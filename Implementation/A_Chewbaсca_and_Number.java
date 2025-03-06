@@ -1,3 +1,5 @@
+// https://codeforces.com/contest/514/problem/A
+
 import java.util.Scanner ;
 
 public class A_Chewbacca_and_Number {
