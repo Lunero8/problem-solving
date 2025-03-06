@@ -5,3 +5,4 @@
 2. [A. Chewbaсca and Number](https://codeforces.com/contest/514/problem/A)
 3. [A. Beautiful Matrix](https://codeforces.com/contest/263/problem/A)
 4. [A. Soft Drinking](https://codeforces.com/contest/151/problem/A)
+5. [A. The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A)
