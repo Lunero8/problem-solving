@@ -10,3 +10,5 @@
 # LeetCode Daily Question
 1. [2379. Minimum Recolors to Get K Consecutive Black Blocks : 08-03-2025](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/description/?envType=daily-question&envId=2025-03-08)
 2. [3208. Alternating Groups II : 09-03-2025](https://leetcode.com/problems/alternating-groups-ii/description/?envType=daily-question&envId=2025-03-09)
+3. [1358. Number of Substrings Containing All Three Characters : 11-03-2025](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/?envType=daily-question&envId=2025-03-11)
+4. [2529. Maximum Count of Positive Integer and Negative Integer : 12-03-2025](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/description/?envType=daily-question&envId=2025-03-12)
