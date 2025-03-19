@@ -6,6 +6,7 @@
 3. [1358. Number of Substrings Containing All Three Characters : 11-03-2025](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/?envType=daily-question&envId=2025-03-11)
 4. [2529. Maximum Count of Positive Integer and Negative Integer : 12-03-2025](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/description/?envType=daily-question&envId=2025-03-12)
 5. [2206. Divide Array Into Equal Pairs : 17-03-2025](https://leetcode.com/problems/divide-array-into-equal-pairs/description/?envType=daily-question&envId=2025-03-17)
+6. [3191. Minimum Operations to Make Binary Array Elements Equal to One I : 19-03-2025](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/description/?envType=daily-question&envId=2025-03-19)
 
 # CP-31 800 Rated
 1. [A. Halloumi Boxes](https://codeforces.com/problemset/problem/1903/A])
