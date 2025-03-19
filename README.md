@@ -8,7 +8,7 @@
 5. [2206. Divide Array Into Equal Pairs : 17-03-2025](https://leetcode.com/problems/divide-array-into-equal-pairs/description/?envType=daily-question&envId=2025-03-17)
 
 # CP-31 800 Rated
-1. [A. Halloumi Boxes][https://codeforces.com/problemset/problem/1903/A]
+1. [A. Halloumi Boxes](https://codeforces.com/problemset/problem/1903/A])
 
 # Implementation / Constructive
 1. [A. Bit++](https://codeforces.com/problemset/problem/282/A)
