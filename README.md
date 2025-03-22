@@ -10,6 +10,7 @@
 
 # CP-31 800 Rated
 1. [A. Halloumi Boxes](https://codeforces.com/problemset/problem/1903/A])
+2. [A. Line Trip](https://codeforces.com/problemset/problem/1901/A)
 
 # Implementation / Constructive
 1. [A. Bit++](https://codeforces.com/problemset/problem/282/A)
