@@ -8,6 +8,7 @@
 5. [2206. Divide Array Into Equal Pairs : 17-03-2025](https://leetcode.com/problems/divide-array-into-equal-pairs/description/?envType=daily-question&envId=2025-03-17)
 6. [3191. Minimum Operations to Make Binary Array Elements Equal to One I : 19-03-2025](https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/description/?envType=daily-question&envId=2025-03-19)
 7. [1920. Build Array from Permutation : 06-05-2025](https://leetcode.com/problems/build-array-from-permutation/?envType=daily-question&envId=2025-05-06)
+8. [75. Sort Colors : 17-05-2025](https://leetcode.com/problems/sort-colors/description/?envType=daily-question&envId=2025-05-17)
 
 # CP-31 800 Rated
 1. [A. Halloumi Boxes](https://codeforces.com/problemset/problem/1903/A])
