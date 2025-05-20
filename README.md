@@ -10,6 +10,7 @@
 7. [1920. Build Array from Permutation : 06-05-2025](https://leetcode.com/problems/build-array-from-permutation/?envType=daily-question&envId=2025-05-06)
 8. [75. Sort Colors : 17-05-2025](https://leetcode.com/problems/sort-colors/description/?envType=daily-question&envId=2025-05-17)
 9. [3024. Type of Triangle : 19-05-2025](https://leetcode.com/problems/type-of-triangle/description/?envType=daily-question&envId=2025-05-19)
+10. [3355. Zero Array Transformation I : 20-05-2025](https://leetcode.com/problems/zero-array-transformation-i/description/?envType=daily-question&envId=2025-05-20)
 
 # CP-31 800 Rated
 1. [A. Halloumi Boxes](https://codeforces.com/problemset/problem/1903/A])
