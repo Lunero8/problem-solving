@@ -12,6 +12,7 @@
 9. [3024. Type of Triangle : 19-05-2025](https://leetcode.com/problems/type-of-triangle/description/?envType=daily-question&envId=2025-05-19)
 10. [3355. Zero Array Transformation I : 20-05-2025](https://leetcode.com/problems/zero-array-transformation-i/description/?envType=daily-question&envId=2025-05-20)
 11. [2942. Find Words Containing Character : 24-05-2025](https://leetcode.com/problems/find-words-containing-character/description/?envType=daily-question&envId=2025-05-24)
+12. [2894. Divisible and Non-divisible Sums Difference : 27-05-2025](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/description/?envType=daily-question&envId=2025-05-27)
 
 # CP-31 800 Rated
 1. [A. Halloumi Boxes](https://codeforces.com/problemset/problem/1903/A])
