@@ -27,6 +27,7 @@
 3. [A. Beautiful Matrix](https://codeforces.com/contest/263/problem/A)
 4. [A. Soft Drinking](https://codeforces.com/contest/151/problem/A)
 5. [A. The New Year: Meeting Friends](https://codeforces.com/contest/723/problem/A)
+6. [A. Text Volume](https://codeforces.com/problemset/problem/837/A)
 
 # Recursion
 1. [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)
