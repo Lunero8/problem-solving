@@ -45,3 +45,4 @@
 11. [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/description/)
 12. [1021. Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/)
 13. [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/)
+14. [796. Rotate String](https://leetcode.com/problems/rotate-string/description/)
