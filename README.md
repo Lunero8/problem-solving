@@ -51,3 +51,4 @@
 16. [12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/description/?envType=study-plan-v2&envId=top-interview-150)
 17. [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)
 18. [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/?envType=study-plan-v2&envId=top-interview-150)
+19. [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
