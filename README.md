@@ -18,6 +18,7 @@
 15. [2044. Count Number of Maximum Bitwise-OR Subsets : 28-07-2025](https://leetcode.com/problems/count-number-of-maximum-bitwise-or-subsets/description/?envType=daily-question&envId=2025-07-28)
 16. [118. Pascal's Triangle : 01-08-2025](https://leetcode.com/problems/pascals-triangle/description/?envType=daily-question&envId=2025-08-01)
 17. [904. Fruit Into Baskets : 04-08-2025](https://leetcode.com/problems/fruit-into-baskets/description/?envType=daily-question&envId=2025-08-04)
+18. [3477. Fruits Into Baskets II : 05-08-2025](https://leetcode.com/problems/fruits-into-baskets-ii/description/?envType=daily-question&envId=2025-08-05)
 
 # CP-31 800 Rated
 1. [A. Halloumi Boxes](https://codeforces.com/problemset/problem/1903/A])
