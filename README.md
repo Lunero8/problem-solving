@@ -56,3 +56,8 @@
 17. [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/description/)
 18. [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/description/?envType=study-plan-v2&envId=top-interview-150)
 19. [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
+
+# Arrays
+1. [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/description/)
+2. [75. Sort Colors](https://leetcode.com/problems/sort-colors/description/)
+3. [3487. Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/description/)
