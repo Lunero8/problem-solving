@@ -69,3 +69,4 @@
 8. [135. Candy](https://leetcode.com/problems/candy/description/?envType=study-plan-v2&envId=top-interview-150)
 9. [3638. Maximum Balanced Shipments](https://leetcode.com/problems/maximum-balanced-shipments/description/)
 10. [268. Missing Number](https://leetcode.com/problems/missing-number/description/)
+11. [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)
