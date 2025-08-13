@@ -71,3 +71,4 @@
 10. [268. Missing Number](https://leetcode.com/problems/missing-number/description/)
 11. [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/)
 12. [136. Single Number](https://leetcode.com/problems/single-number/description/)
+13. [169. Majority Element](https://leetcode.com/problems/majority-element/description/)
