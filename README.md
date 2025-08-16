@@ -23,6 +23,7 @@
 20. [326. Power of Three : 13-08-2025](https://leetcode.com/problems/power-of-three/description/?envType=daily-question&envId=2025-08-13)
 21. [2264. Largest 3-Same-Digit Number in String : 14-08-2025](https://leetcode.com/problems/largest-3-same-digit-number-in-string/description/?envType=daily-question&envId=2025-08-14)
 22. [342. Power of Four : 15-08-2025](https://leetcode.com/problems/power-of-four/description/?envType=daily-question&envId=2025-08-15)
+23. [1323. Maximum 69 Number : 16-08-2025](https://leetcode.com/problems/maximum-69-number/description/?envType=daily-question&envId=2025-08-16)
 
 # CP-31 800 Rated
 1. [A. Halloumi Boxes](https://codeforces.com/problemset/problem/1903/A])
