@@ -76,3 +76,4 @@
 12. [136. Single Number](https://leetcode.com/problems/single-number/description/)
 13. [169. Majority Element](https://leetcode.com/problems/majority-element/description/)
 14. [1752. Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)
+15. [27. Remove Element](https://leetcode.com/problems/remove-element/description/)
