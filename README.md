@@ -78,3 +78,4 @@
 14. [1752. Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)
 15. [27. Remove Element](https://leetcode.com/problems/remove-element/description/)
 16. [134. Gas Station](https://leetcode.com/problems/gas-station/description/?envType=study-plan-v2&envId=top-interview-150)
+17. [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)
