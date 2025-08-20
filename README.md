@@ -26,10 +26,6 @@
 23. [1323. Maximum 69 Number : 16-08-2025](https://leetcode.com/problems/maximum-69-number/description/?envType=daily-question&envId=2025-08-16)
 24. [2348. Number of Zero-Filled Subarrays : 19-08-2025](https://leetcode.com/problems/number-of-zero-filled-subarrays/description/?envType=daily-question&envId=2025-08-19)
 
-# CP-31 800 Rated
-1. [A. Halloumi Boxes](https://codeforces.com/problemset/problem/1903/A])
-2. [A. Line Trip](https://codeforces.com/problemset/problem/1901/A)
-
 # Implementation / Constructive
 1. [A. Bit++](https://codeforces.com/problemset/problem/282/A)
 2. [A. Chewbaсca and Number](https://codeforces.com/contest/514/problem/A)
