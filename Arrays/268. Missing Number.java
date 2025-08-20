@@ -6,7 +6,18 @@
 
 class Solution {
     public int missingNumber(int[] nums) {
-        // Approach 2
+        // Approach 3
+        int r = 0 ;
+
+        for (int i = 1 ; i <= nums.length ; i++)
+            r ^= i ;
+
+        for (int num : nums)
+            r ^= num ;
+        
+        return r ;
+
+        /* --Approach 2
         int len = nums.length ;
         int sum = len * (len + 1) / 2 ;
 
@@ -14,6 +25,7 @@ class Solution {
             sum -= n ;
         
         return sum ;
+        */
         
         /* --Approach 1
         Arrays.sort (nums) ;
