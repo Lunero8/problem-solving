@@ -77,3 +77,6 @@
 15. [27. Remove Element](https://leetcode.com/problems/remove-element/description/)
 16. [134. Gas Station](https://leetcode.com/problems/gas-station/description/?envType=study-plan-v2&envId=top-interview-150)
 17. [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/description/)
+
+# Linked List
+1. [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)
