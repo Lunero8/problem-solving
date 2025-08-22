@@ -80,3 +80,4 @@
 
 # Linked List
 1. [237. Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)
+2. [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/description/)
