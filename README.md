@@ -25,6 +25,7 @@
 22. [342. Power of Four : 15-08-2025](https://leetcode.com/problems/power-of-four/description/?envType=daily-question&envId=2025-08-15)
 23. [1323. Maximum 69 Number : 16-08-2025](https://leetcode.com/problems/maximum-69-number/description/?envType=daily-question&envId=2025-08-16)
 24. [2348. Number of Zero-Filled Subarrays : 19-08-2025](https://leetcode.com/problems/number-of-zero-filled-subarrays/description/?envType=daily-question&envId=2025-08-19)
+25. [3195. Find the Minimum Area to Cover All Ones I : 22-08-2025](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/description/?envType=daily-question&envId=2025-08-22)
 
 # Implementation / Constructive
 1. [A. Bit++](https://codeforces.com/problemset/problem/282/A)
