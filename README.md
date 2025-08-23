@@ -37,6 +37,7 @@
 7. [A. Sum of Round Numbers](https://codeforces.com/contest/1352/problem/A)
 8. [A. Fox And Snake](https://codeforces.com/contest/510/problem/A)
 9. [A. Anton and Polyhedrons](https://codeforces.com/problemset/problem/785/A)
+10. [A. Arrival of the General](https://codeforces.com/contest/144/problem/A)
 
 # Recursion
 1. [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)
