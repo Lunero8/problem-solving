@@ -96,3 +96,4 @@
 6. [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/)
 7. [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)
 8. [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)
+9. [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)
