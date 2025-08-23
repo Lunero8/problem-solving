@@ -84,3 +84,4 @@
 3. [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)
 4. [328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)
 5. [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)
+6. [2095. Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/)
