@@ -39,6 +39,7 @@
 9. [A. Anton and Polyhedrons](https://codeforces.com/problemset/problem/785/A)
 10. [A. Arrival of the General](https://codeforces.com/contest/144/problem/A)
 11. [A. In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A)
+12. [A. Presents](https://codeforces.com/contest/136/problem/A)
 
 # Recursion
 1. [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)
