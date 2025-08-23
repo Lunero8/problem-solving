@@ -40,6 +40,7 @@
 10. [A. Arrival of the General](https://codeforces.com/contest/144/problem/A)
 11. [A. In Search of an Easy Problem](https://codeforces.com/problemset/problem/1030/A)
 12. [A. Presents](https://codeforces.com/contest/136/problem/A)
+13. [A. Nearly Lucky Number](https://codeforces.com/contest/110/problem/A)
 
 # Recursion
 1. [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)
