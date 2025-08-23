@@ -42,6 +42,7 @@
 12. [A. Presents](https://codeforces.com/contest/136/problem/A)
 13. [A. Nearly Lucky Number](https://codeforces.com/contest/110/problem/A)
 14. [A. Tram](https://codeforces.com/contest/116/problem/A)
+15. [A. Wrong Subtraction](https://codeforces.com/problemset/problem/977/A)
 
 # Recursion
 1. [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)

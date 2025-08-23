@@ -1,0 +1,24 @@
+/**
+ *    author:  Lunero
+ *    created: 23.08.2025 18:31:45
+**/
+import java.util.* ;
+
+public class A_Wrong_Subtraction {
+      public static void main (String[] args) {
+            Scanner sc = new Scanner (System.in) ;
+
+            int n = sc.nextInt() ;
+            int k = sc.nextInt() ;
+
+            while (k-- > 0)
+            {
+                  if (n % 10 != 0)
+                        n-- ;
+                  else
+                        n /= 10 ;
+            }
+
+            System.out.println (n) ;
+      }
+}
