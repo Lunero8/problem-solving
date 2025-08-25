@@ -27,6 +27,7 @@
 24. [2348. Number of Zero-Filled Subarrays : 19-08-2025](https://leetcode.com/problems/number-of-zero-filled-subarrays/description/?envType=daily-question&envId=2025-08-19)
 25. [3195. Find the Minimum Area to Cover All Ones I : 22-08-2025](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/description/?envType=daily-question&envId=2025-08-22)
 26. [1493. Longest Subarray of 1's After Deleting One Element : 24-08-2025](https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/description/?envType=daily-question&envId=2025-08-24)
+27. [498. Diagonal Traverse : 25-08-2025](https://leetcode.com/problems/diagonal-traverse/description/?envType=daily-question&envId=2025-08-25)
 
 # Implementation / Constructive
 1. [A. Bit++](https://codeforces.com/problemset/problem/282/A)
