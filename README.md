@@ -30,6 +30,7 @@
 27. [498. Diagonal Traverse : 25-08-2025](https://leetcode.com/problems/diagonal-traverse/description/?envType=daily-question&envId=2025-08-25)
 28. [3000. Maximum Area of Longest Diagonal Rectangle : 26-08-2025](https://leetcode.com/problems/maximum-area-of-longest-diagonal-rectangle/description/?envType=daily-question&envId=2025-08-26)
 29. [3021. Alice and Bob Playing Flower Game : 29-08-2025](https://leetcode.com/problems/alice-and-bob-playing-flower-game/description/?envType=daily-question&envId=2025-08-29)
+30. [3516. Find Closest Person : 04-09-2025](https://leetcode.com/problems/find-closest-person/description/?envType=daily-question&envId=2025-09-04)
 
 # Implementation / Constructive
 1. [A. Bit++](https://codeforces.com/problemset/problem/282/A)
