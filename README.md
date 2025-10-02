@@ -117,3 +117,4 @@
 2. [134. Gas Station](https://leetcode.com/problems/gas-station/description/)
 3. [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)
 4. [B. Alternating Current](https://codeforces.com/contest/343/problem/B)
+5. [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/description/)
