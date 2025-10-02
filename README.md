@@ -33,6 +33,8 @@
 30. [3516. Find Closest Person : 04-09-2025](https://leetcode.com/problems/find-closest-person/description/?envType=daily-question&envId=2025-09-04)
 31. [3541. Find Most Frequent Vowel and Consonant : 13-09-2025](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant/description/?envType=daily-question&envId=2025-09-13)
 32. [976. Largest Perimeter Triangle : 28-09-2025](https://leetcode.com/problems/largest-perimeter-triangle/description/?envType=daily-question&envId=2025-09-28)
+33. [1518. Water Bottles : 01-10-2025](https://leetcode.com/problems/water-bottles/description/?envType=daily-question&envId=2025-10-01)
+34. [3100. Water Bottles II : 02-10-2025](https://leetcode.com/problems/water-bottles-ii/description/?envType=daily-question&envId=2025-10-02)
 
 # Implementation / Constructive
 1. [A. Bit++](https://codeforces.com/problemset/problem/282/A)
