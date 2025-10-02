@@ -115,3 +115,4 @@
 # Stack
 1. [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)
 2. [134. Gas Station](https://leetcode.com/problems/gas-station/description/)
+3. [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)
