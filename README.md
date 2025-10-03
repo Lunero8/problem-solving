@@ -118,3 +118,4 @@
 3. [496. Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/)
 4. [B. Alternating Current](https://codeforces.com/contest/343/problem/B)
 5. [503. Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/description/)
+6. [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)
