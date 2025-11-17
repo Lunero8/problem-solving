@@ -57,6 +57,7 @@
 16. [A. Soldier and Bananas](https://codeforces.com/contest/546/problem/A)
 17. [A. Bear and Big Brother](https://codeforces.com/contest/791/problem/A)
 18. [A. Boy or Girl](https://codeforces.com/problemset/problem/236/A)
+19. [A. Word Capitalization](https://codeforces.com/problemset/problem/281/A)
 
 # Recursion
 1. [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/description/)
