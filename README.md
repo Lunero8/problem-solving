@@ -37,6 +37,7 @@
 34. [3100. Water Bottles II : 02-10-2025](https://leetcode.com/problems/water-bottles-ii/description/?envType=daily-question&envId=2025-10-02)
 35. [1513. Number of Substrings With Only 1s : 16-11-2025](https://leetcode.com/problems/number-of-substrings-with-only-1s/description/?envType=daily-question&envId=2025-11-16)
 36. [1437. Check If All 1's Are at Least Length K Places Away : 17-11-2025](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/description/?envType=daily-question&envId=2025-11-17)
+37. [717. 1-bit and 2-bit Characters : 18-11-2025](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/?envType=daily-question&envId=2025-11-18)
 
 # Implementation / Constructive
 1. [A. Bit++](https://codeforces.com/problemset/problem/282/A)
