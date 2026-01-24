@@ -39,6 +39,7 @@
 36. [1437. Check If All 1's Are at Least Length K Places Away : 17-11-2025](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/description/?envType=daily-question&envId=2025-11-17)
 37. [717. 1-bit and 2-bit Characters : 18-11-2025](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/?envType=daily-question&envId=2025-11-18)
 38. [2154. Keep Multiplying Found Values by Two : 19-11-2025](https://leetcode.com/problems/keep-multiplying-found-values-by-two/description/?envType=daily-question&envId=2025-11-19)
+39. [1877. Minimize Maximum Pair Sum in Array : 24-01-2026](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/?envType=daily-question&envId=2026-01-24)
 
 # Implementation / Constructive
 1. [A. Bit++](https://codeforces.com/problemset/problem/282/A)
