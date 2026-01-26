@@ -41,6 +41,7 @@
 38. [2154. Keep Multiplying Found Values by Two : 19-11-2025](https://leetcode.com/problems/keep-multiplying-found-values-by-two/description/?envType=daily-question&envId=2025-11-19)
 39. [1877. Minimize Maximum Pair Sum in Array : 24-01-2026](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/?envType=daily-question&envId=2026-01-24)
 40. [1984. Minimum Difference Between Highest and Lowest of K Scores : 25-01-2026](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description/?envType=daily-question&envId=2026-01-25)
+41. [1200. Minimum Absolute Difference : 26-01-2026](https://leetcode.com/problems/minimum-absolute-difference/description/?envType=daily-question&envId=2026-01-26)
 
 # Implementation / Constructive
 1. [A. Bit++](https://codeforces.com/problemset/problem/282/A)
