@@ -40,6 +40,7 @@
 37. [717. 1-bit and 2-bit Characters : 18-11-2025](https://leetcode.com/problems/1-bit-and-2-bit-characters/description/?envType=daily-question&envId=2025-11-18)
 38. [2154. Keep Multiplying Found Values by Two : 19-11-2025](https://leetcode.com/problems/keep-multiplying-found-values-by-two/description/?envType=daily-question&envId=2025-11-19)
 39. [1877. Minimize Maximum Pair Sum in Array : 24-01-2026](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/?envType=daily-question&envId=2026-01-24)
+40. [1984. Minimum Difference Between Highest and Lowest of K Scores : 25-01-2026](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description/?envType=daily-question&envId=2026-01-25)
 
 # Implementation / Constructive
 1. [A. Bit++](https://codeforces.com/problemset/problem/282/A)
