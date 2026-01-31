@@ -42,6 +42,7 @@
 39. [1877. Minimize Maximum Pair Sum in Array : 24-01-2026](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/?envType=daily-question&envId=2026-01-24)
 40. [1984. Minimum Difference Between Highest and Lowest of K Scores : 25-01-2026](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description/?envType=daily-question&envId=2026-01-25)
 41. [1200. Minimum Absolute Difference : 26-01-2026](https://leetcode.com/problems/minimum-absolute-difference/description/?envType=daily-question&envId=2026-01-26)
+42. [744. Find Smallest Letter Greater Than Target : 31-01-2026](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/?envType=daily-question&envId=2026-01-31)
 
 # Implementation / Constructive
 1. [A. Bit++](https://codeforces.com/problemset/problem/282/A)
