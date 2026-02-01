@@ -43,6 +43,7 @@
 40. [1984. Minimum Difference Between Highest and Lowest of K Scores : 25-01-2026](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description/?envType=daily-question&envId=2026-01-25)
 41. [1200. Minimum Absolute Difference : 26-01-2026](https://leetcode.com/problems/minimum-absolute-difference/description/?envType=daily-question&envId=2026-01-26)
 42. [744. Find Smallest Letter Greater Than Target : 31-01-2026](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/?envType=daily-question&envId=2026-01-31)
+43. [3010. Divide an Array Into Subarrays With Minimum Cost I : 01-02-2026](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/description/?envType=daily-question&envId=2026-02-01)
 
 # Implementation / Constructive
 1. [A. Bit++](https://codeforces.com/problemset/problem/282/A)
