@@ -45,6 +45,7 @@
 42. [744. Find Smallest Letter Greater Than Target : 31-01-2026](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/?envType=daily-question&envId=2026-01-31)
 43. [3010. Divide an Array Into Subarrays With Minimum Cost I : 01-02-2026](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/description/?envType=daily-question&envId=2026-02-01)
 44. [2091. Removing Minimum and Maximum From Array : 30-08-2026](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/description/?envType=daily-question&envId=2026-08-30)
+45. [3904. Smallest Stable Index II : 05-09-2026](https://leetcode.com/problems/smallest-stable-index-ii/description/?envType=daily-question&envId=2026-09-05)
 
 # Implementation / Constructive
 1. [A. Bit++](https://codeforces.com/problemset/problem/282/A)
